@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "test@example.com",
+      "password": "password123",
+      "preferences": {
+        "dietaryRestrictions": ["Vegetarian"],
+        "favoriteCuisines": ["Italian", "Indian"],
+        "dailyCalorieGoal": 2000,
+        "healthGoals": ["Heart Health"]
+      }
+    }
+  ]
+}

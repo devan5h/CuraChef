@@ -1,0 +1,8 @@
+{
+  "name": "CuraChef: Your AI Kitchen Companion",
+  "description": "CuraChef is your AI-powered kitchen companion, helping you manage your pantry, discover recipes, and make healthy food choices that align with your specific health needs and medical conditions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
